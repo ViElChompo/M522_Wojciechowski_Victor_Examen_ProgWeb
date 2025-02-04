@@ -1,6 +1,6 @@
 "Use Strict";
 
-import { Game } from "./modules/game";
+import { Game } from "../modules/game";
 
 const game = new Game(5);
 
