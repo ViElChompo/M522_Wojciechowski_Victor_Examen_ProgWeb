@@ -7,4 +7,5 @@ export default defineConfig({
         outDir: '../dist', // Output directory (relative to the root)
         emptyOutDir: true, // Clean the output directory before building
     },
+    entries: ['index.html'],
 });
